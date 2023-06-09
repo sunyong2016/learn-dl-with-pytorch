@@ -1,6 +1,6 @@
 # learn-dl-with-pytorch
 
-### FCN语义分割模型
+### FCN语义分割模型（Fully Convolutional Networks for Semantic Segmentation)
 - 语义分割是基于像素级别的处理图像方式，自动从图像中识别对象区域与对象区域的类别。
 - 论文：https://arxiv.org/pdf/1411.4038.pdf
 - FCN提出所追求的是，输入是一张图片，输出也是一张图片，学习像素到像素的映射。
